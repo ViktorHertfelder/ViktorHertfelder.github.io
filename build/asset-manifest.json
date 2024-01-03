@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ViktorHertfelder.github.io/static/css/main.51e8e792.css",
-    "main.js": "/ViktorHertfelder.github.io/static/js/main.c5795afe.js",
-    "static/js/787.c922dae8.chunk.js": "/ViktorHertfelder.github.io/static/js/787.c922dae8.chunk.js",
-    "static/media/Bewerbungsfoto.jpg": "/ViktorHertfelder.github.io/static/media/Bewerbungsfoto.df6c83889e52770c87ac.jpg",
-    "index.html": "/ViktorHertfelder.github.io/index.html",
-    "main.51e8e792.css.map": "/ViktorHertfelder.github.io/static/css/main.51e8e792.css.map",
-    "main.c5795afe.js.map": "/ViktorHertfelder.github.io/static/js/main.c5795afe.js.map",
-    "787.c922dae8.chunk.js.map": "/ViktorHertfelder.github.io/static/js/787.c922dae8.chunk.js.map"
+    "main.css": "/ViktorHertfelder/ViktorHertfelder.github.io/static/css/main.51e8e792.css",
+    "main.js": "/ViktorHertfelder/ViktorHertfelder.github.io/static/js/main.22e9399d.js",
+    "static/js/787.c922dae8.chunk.js": "/ViktorHertfelder/ViktorHertfelder.github.io/static/js/787.c922dae8.chunk.js",
+    "static/media/Bewerbungsfoto.jpg": "/ViktorHertfelder/ViktorHertfelder.github.io/static/media/Bewerbungsfoto.df6c83889e52770c87ac.jpg",
+    "index.html": "/ViktorHertfelder/ViktorHertfelder.github.io/index.html",
+    "main.51e8e792.css.map": "/ViktorHertfelder/ViktorHertfelder.github.io/static/css/main.51e8e792.css.map",
+    "main.22e9399d.js.map": "/ViktorHertfelder/ViktorHertfelder.github.io/static/js/main.22e9399d.js.map",
+    "787.c922dae8.chunk.js.map": "/ViktorHertfelder/ViktorHertfelder.github.io/static/js/787.c922dae8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51e8e792.css",
-    "static/js/main.c5795afe.js"
+    "static/js/main.22e9399d.js"
   ]
 }
