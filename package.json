@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
   },
-  "homepage": "https://github.com/ViktorHertfelder/ViktorHertfelder.github.io",
+  "homepage": "https://ViktorHertfelder.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
