@@ -6,6 +6,9 @@ import Socials from "./components/Socials";
 import "./App.css"
 
 function App() {
+    let current = new Date()
+
+    let year = current.getFullYear()
     return (
         <div className="App bg-dark" data-bs-theme="dark">
             <NavBar/>
@@ -14,7 +17,7 @@ function App() {
             <About/>
             <Socials/>
             <div className="text-white d-flex justify-content-center align-items-center pb-2">
-                <p>Viktor Hertfelder 2023</p>
+                <p>Viktor Hertfelder {year}</p>
             </div>
         </div>
     );

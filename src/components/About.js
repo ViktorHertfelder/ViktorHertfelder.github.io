@@ -1,4 +1,4 @@
-import Me from "./Bewerbungsfoto.jpg"
+import Me from "./DSC01711.jpg"
 
 function About() {
     return (
