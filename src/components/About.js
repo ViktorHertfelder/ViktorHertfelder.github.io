@@ -5,7 +5,7 @@ function About() {
         <div id="about" className="container vh-100 d-flex justify-content-center align-items-center">
             <div className="row">
                 <div className="col-md-6 d-flex align-items-center">
-                    <img src={Me} className="img-fluid"/>
+                    <img src={Me} className="img-fluid" alt=""/>
                 </div>
                 <div className="col-md-6 ">
                     <div className="text-center text-white d-flex flex-column justify-content-center h-100 mx-3">
