@@ -6,7 +6,7 @@ function Skills() {
             <div>
                 <h1 className="text-white">Software Development Skills:</h1>
             </div>
-            <Accordion style={{width: '80%'}}>
+            <Accordion style={{width: "80%"}}>
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>Java</Accordion.Header>
                     <Accordion.Body>
@@ -49,7 +49,7 @@ function Skills() {
                 <h1 className="text-white">Language Skills:</h1>
             </div>
 
-            <Accordion style={{width: '80%'}}>
+            <Accordion style={{width: "80%"}}>
                 <Accordion.Item eventKey="0">
                     <Accordion.Header>English</Accordion.Header>
                     <Accordion.Body>
