@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ViktorHertfelder.github.io/static/css/main.41dfa6ed.css",
-    "main.js": "/ViktorHertfelder.github.io/static/js/main.34990b0f.js",
-    "static/js/787.4eab19b3.chunk.js": "/ViktorHertfelder.github.io/static/js/787.4eab19b3.chunk.js",
-    "static/media/Bewerbungsfoto.jpg": "/ViktorHertfelder.github.io/static/media/Bewerbungsfoto.df6c83889e52770c87ac.jpg",
-    "index.html": "/ViktorHertfelder.github.io/index.html",
-    "main.41dfa6ed.css.map": "/ViktorHertfelder.github.io/static/css/main.41dfa6ed.css.map",
-    "main.34990b0f.js.map": "/ViktorHertfelder.github.io/static/js/main.34990b0f.js.map",
-    "787.4eab19b3.chunk.js.map": "/ViktorHertfelder.github.io/static/js/787.4eab19b3.chunk.js.map"
+    "main.css": "/static/css/main.4e182bd4.css",
+    "main.js": "/static/js/main.bd6486f9.js",
+    "static/media/DSC01711.jpg": "/static/media/DSC01711.23da3c767b5852098a37.jpg",
+    "static/media/pexels-pixabay-147413.jpg": "/static/media/pexels-pixabay-147413.8ccb0fa89b5c6f77d64f.jpg",
+    "static/media/pexels-pixabay-270404.jpg": "/static/media/pexels-pixabay-270404.f625d948bb471e2896e8.jpg",
+    "index.html": "/index.html",
+    "main.4e182bd4.css.map": "/static/css/main.4e182bd4.css.map",
+    "main.bd6486f9.js.map": "/static/js/main.bd6486f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.41dfa6ed.css",
-    "static/js/main.34990b0f.js"
+    "static/css/main.4e182bd4.css",
+    "static/js/main.bd6486f9.js"
   ]
 }
