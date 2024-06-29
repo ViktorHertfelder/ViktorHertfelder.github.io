@@ -8,12 +8,12 @@ const Home = () => {
         <div id="home">
             <Carousel>
                 <Carousel.Item>
-                    <div style={{maxHeight: '100vh', overflow: 'hidden'}}>
+                    <div style={{maxHeight: "100vh", overflow: "hidden"}}>
                         <img
                             className="d-block w-100"
                             src={WebDev}
                             alt="First slide"
-                            style={{objectFit: 'cover', maxHeight: '100%'}}
+                            style={{objectFit: "cover", maxHeight: "100%"}}
                         />
                     </div>
                     <Carousel.Caption className="text-light">
@@ -22,7 +22,7 @@ const Home = () => {
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <div style={{maxHeight: '100vh', overflow: 'hidden'}}>
+                    <div style={{maxHeight: "100vh", overflow: "hidden"}}>
                         <img
                             className="d-block w-100"
                             src={AppDev}
