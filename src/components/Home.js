@@ -16,7 +16,7 @@ const Home = () => {
                             style={{objectFit: "cover", maxHeight: "100%"}}
                         />
                     </div>
-                    <Carousel.Caption className="text-light">
+                    <Carousel.Caption className="text-light" style={{background: "rgb(0, 0, 0, 0.5)"}}>
                         <h5>Web development</h5>
                         <p>Websites and Webapps with React and Bootstrap</p>
                     </Carousel.Caption>
@@ -28,7 +28,7 @@ const Home = () => {
                             src={AppDev}
                             alt="Second slide"
                         />
-                        <Carousel.Caption className="text-light">
+                        <Carousel.Caption className="text-light" style={{background: "rgb(0, 0, 0, 0.5)"}}>
                             <h5>Mobile App development</h5>
                             <p>Android Apps developed in Kotlin with Compose</p>
                         </Carousel.Caption>
@@ -36,6 +36,7 @@ const Home = () => {
                 </Carousel.Item>
             </Carousel>
         </div>
+
     );
 };
 
